@@ -1,2 +1,2 @@
 # Codigos
-exercicios de maratona de programacão
+exercícios de maratona de programação
